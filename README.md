@@ -11,15 +11,19 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 - Un capteur de température
 
 ## Schéma de la Carte Mère DEA 224RR
+
 ![Carte Mère DEA 224RR](dea_224rr.png.jpg)
 
 ## Schéma du Capteur de Température
+
 ![Capteur de Température](capteur_temperature.png.jpg)
 
 ## Schéma de Montage
+
 ![Schéma de Montage](schema_montage.png.jpg)
 
 ## Schéma de rallonge des câbles
+
 ![Schéma rallonge](carte.jpg)
 
 ## Configuration du Shelly Uni
@@ -33,13 +37,13 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 
 ## Intégration avec Home Assistant
 Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
+
 ![Rendu HA](rendu_ha.jpg)
 
 ## Rendu du projet
-Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
+
 ![Rendu](projet.jpg)
 
-
 ## Conclusion
-Ce projet permet d'automatiser un portail en utilisant des composants simples et accessibles.
+Ce projet permet d'automatiser un portail DEA 224RR en utilisant des composants simples et accessibles.
 
