@@ -6,7 +6,7 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 ## Matériel Nécessaire
 - Un contrôleur DEA 224RR
 - Un Shelly Uni
-- 7 câbles pour prolonger le câble du Shelly
+- 4 câbles pour prolonger le câble du Shelly
 - Une plaque à soudure de petite taille
 - Un capteur de température
 
