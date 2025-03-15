@@ -1,4 +1,4 @@
-# Automatisation d'un Portail avec Shelly Uni et DEA System 224RR
+# Domotiser un Portail DEA System 224RR avec Shelly Uni
 
 ## Introduction
 Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail avec un contrôleur DEA System 224RR.
