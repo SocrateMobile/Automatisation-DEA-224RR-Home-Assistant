@@ -20,7 +20,7 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 ![Schéma de Montage](schema_montage.png.jpg)
 
 ## Schéma de rallonge des câbles
-![Schéma rallonge](carte.png.jpg)
+![Schéma rallonge](carte.jpg)
 
 ## Configuration du Shelly Uni
 ### Paramétrage des Boutons
