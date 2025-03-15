@@ -11,13 +11,13 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 - Un capteur de température
 
 ## Schéma de la Carte Mère DEA 224RR
-![Carte Mère DEA 224RR](images/dea_224rr.png)
+![Carte Mère DEA 224RR](images/dea_224rr.jpg)
 
 ## Schéma du Capteur de Température
-![Capteur de Température](images/capteur_temperature.png)
+![Capteur de Température](images/capteur_temperature.jpg)
 
 ## Schéma de Montage
-![Schéma de Montage](images/schema_montage.png)
+![Schéma de Montage](images/schema_montage.jpg)
 
 ## Configuration du Shelly Uni
 ### Paramétrage des Boutons
