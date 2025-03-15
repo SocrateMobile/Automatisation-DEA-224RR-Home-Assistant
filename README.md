@@ -19,6 +19,9 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 ## Schéma de Montage
 ![Schéma de Montage](schema_montage.png.jpg)
 
+## Schéma de rallonge des câbles
+![Schéma rallonge](carte.png.jpg)
+
 ## Configuration du Shelly Uni
 ### Paramétrage des Boutons
 1. **Activer l'entrée** : Allez dans les paramètres de l'application et activez l'affichage de l'état de l'entrée.
