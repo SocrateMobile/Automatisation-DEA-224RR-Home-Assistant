@@ -25,8 +25,12 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 2. **Configurer le type de bouton** : Dans les paramètres, sélectionnez "Interrupteur autonome".
 3. **Minuterie** : Configurez l'arrêt automatique à 00:00:01.
 
+![Schéma de Montage](configuration shelly.jpg)
+
+
 ## Intégration avec Home Assistant
 Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
 
 ## Conclusion
 Ce projet permet d'automatiser un portail en utilisant des composants simples et accessibles.
+![Schéma de Montage](schema_montage.png.jpg)
