@@ -25,7 +25,7 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 2. **Configurer le type de bouton** : Dans les paramètres, sélectionnez "Interrupteur autonome".
 3. **Minuterie** : Configurez l'arrêt automatique à 00:00:01.
 
-![Schéma de Montage](configuration shelly.jpg)
+![Configuration Shelly](configuration shelly.jpg)
 
 
 ## Intégration avec Home Assistant
