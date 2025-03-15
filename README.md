@@ -30,7 +30,9 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 
 ## Intégration avec Home Assistant
 Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
+![Rendu HA](rendu_ha.jpg)
+
 
 ## Conclusion
 Ce projet permet d'automatiser un portail en utilisant des composants simples et accessibles.
-![Rendu HA](rendu_ha.jpg)
+
