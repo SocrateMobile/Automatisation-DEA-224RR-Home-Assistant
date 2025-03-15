@@ -37,7 +37,7 @@ Le capteur de température et d'humidité s'intègre automatiquement dans Home A
 
 ## Rendu du projet
 Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
-![Rendu](rendu.jpg)
+![Rendu](projet.jpg)
 
 
 ## Conclusion
