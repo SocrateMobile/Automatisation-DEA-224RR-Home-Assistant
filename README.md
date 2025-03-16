@@ -7,9 +7,10 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 - Un contrôleur DEA 224RR
 - Un Shelly Uni
 - 4 câbles pour prolonger le câble du Shelly
+- Un capteur de température DHT22 ou jusqu'à cinq DS18B20
 - Une plaque à soudure de petite taille
-- Un capteur de température
-
+- Un fer à souder et de la soudure
+  
 ## Schéma de la Carte Mère DEA 224RR
 
 ![Carte Mère DEA 224RR](images/dea_224rr.jpg)
