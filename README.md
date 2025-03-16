@@ -36,7 +36,7 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 ![Configuration Shelly](images/configuration_shelly.jpg)
 
 ### Paramétrage du capteur de température
-![Configuration Shelly_menu](images/capteur_shelly_menu.jpg)
+![Configuration Shelly_menu](images/capteur_shelly2.jpg)
 
 
 ## Intégration dans Home Assistant
