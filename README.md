@@ -34,7 +34,9 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 3. **Minuterie** : Configurez l'arrêt automatique à 00:00:01.
 
 ![Configuration Shelly](images/configuration_shelly.jpg)
-![Configuration Shelly](images/capteur_shelly_menu.jpg)  ![Configuration Shelly](images/capteur_shelly.jpg)
+
+### Paramétrage du capteur de température
+![Configuration Shelly](images/capteur_shelly.jpg)
 
 
 ## Intégration dans Home Assistant
