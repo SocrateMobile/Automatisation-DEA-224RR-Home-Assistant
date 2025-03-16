@@ -16,15 +16,15 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 
 ## Schéma du Capteur de Température
 
-![Capteur de Température](capteur_temperature.png.jpg)
+![Capteur de Température](images/capteur_temperature.jpg)
 
 ## Schéma de Montage
 
-![Schéma de Montage](schema_montage.png.jpg)
+![Schéma de Montage](images/schema_montage.jpg)
 
 ## Schéma de rallonge des câbles
 
-![Schéma rallonge](carte.jpg)
+![Schéma rallonge](images/carte.jpg)
 
 ## Configuration du Shelly Uni
 ### Paramétrage des Boutons
@@ -32,17 +32,17 @@ Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail ave
 2. **Configurer le type de bouton** : Dans les paramètres, sélectionnez "Interrupteur autonome".
 3. **Minuterie** : Configurez l'arrêt automatique à 00:00:01.
 
-![Configuration Shelly](configuration_shelly.jpg)
+![Configuration Shelly](images/configuration_shelly.jpg)
 
 
 ## Intégration avec Home Assistant
 Le capteur de température et d'humidité s'intègre automatiquement dans Home Assistant sans configuration supplémentaire.
 
-![Rendu HA](rendu_ha.jpg)
+![Rendu HA](images/rendu_ha.jpg)
 
 ## Rendu du projet
 
-![Rendu](projet.jpg)
+![Rendu](images/projet.jpg)
 
 ## Conclusion
 Ce projet permet d'automatiser un portail DEA 224RR en utilisant des composants simples et accessibles.
