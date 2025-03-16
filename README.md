@@ -4,7 +4,7 @@
 Ce guide explique comment utiliser un Shelly Uni pour automatiser un portail avec un contrôleur DEA System 224RR.
 
 ## Matériel Nécessaire
-- Un contrôleur DEA 224RR
+- Un contrôleur DEA 224RR (doc 224RR_Rev12_DEA.pdf)
 - Un Shelly Uni
 - 4 câbles pour prolonger le câble du Shelly
 - Un capteur de température DHT22 ou jusqu'à cinq DS18B20
